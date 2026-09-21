@@ -6,10 +6,10 @@
 
 ## Trending LLM Projects
 
-* [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,471 | 🐛 245 | 🌐 Python | 📅 2025-08-28 - First open-sourced GPT-4o level model.
-* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 91,983 | 🐛 35 | 📅 2025-06-27 - First-generation reasoning models from DeepSeek.
+* [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,474 | 🐛 250 | 🌐 Python | 📅 2025-08-28 - First open-sourced GPT-4o level model.
+* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 91,980 | 🐛 37 | 📅 2025-06-27 - First-generation reasoning models from DeepSeek.
 * [open-r1](https://github.com/huggingface/open-r1) ⭐ 26,477 | 🐛 340 | 🌐 Python | 📅 2026-04-02 - Fully open reproduction of DeepSeek-R1
-* [TinyZero](https://github.com/Jiayi-Pan/TinyZero) ⭐ 13,238 | 🐛 82 | 🌐 Python | 📅 2026-02-27 - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
+* [TinyZero](https://github.com/Jiayi-Pan/TinyZero) ⭐ 13,239 | 🐛 82 | 🌐 Python | 📅 2026-02-27 - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 * [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) ⭐ 11,118 | 🐛 72 | 📅 2026-01-21 - MoE language model with 32B active and 1T total parameters.
 * [Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/) - Exploring the Intelligence of Large-scale MoE Model.
 * [OpenAI o3-mini](https://openai.com/index/openai-o3-mini/) - Pushing the frontier of cost-effective reasoning.
@@ -112,21 +112,21 @@
 <details>
   <summary> other papers </summary>
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,833 | 🐛 78 | 🌐 HTML | 📅 2026-09-09 - A collection of prompt examples to be used with the ChatGPT model.
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,906 | 🐛 78 | 🌐 HTML | 📅 2026-09-09 - A collection of prompt examples to be used with the ChatGPT model.
 
-* [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,512 | 🐛 45 | 📅 2026-04-28 - A Chinese collection of prompt examples to be used with the ChatGPT model.
+* [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,548 | 🐛 45 | 📅 2026-04-28 - A Chinese collection of prompt examples to be used with the ChatGPT model.
 
-* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,766 | 🐛 32 | 📅 2026-05-10 - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,769 | 🐛 32 | 📅 2026-05-10 - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
-* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,209 | 🐛 17 | 📅 2026-04-08 - A curated list of practical guide resources of LLMs
+* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,210 | 🐛 17 | 📅 2026-04-08 - A curated list of practical guide resources of LLMs
 
-* [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,202 | 🐛 149 | 📅 2025-10-15 - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
+* [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,201 | 🐛 150 | 📅 2025-10-15 - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
 
 * [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) ⚠️ Archived - a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
 
 * [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) ⭐ 3,685 | 🐛 27 | 📅 2026-04-20 - Collection of papers and resources on Reasoning using Language Models.
 
-* [LLMDatahub](https://github.com/Zjh-819/LLMDataHub) ⭐ 3,414 | 🐛 5 | 📅 2023-11-28 - a curated collection of datasets specifically designed for chatbot training, including links, size, language, usage, and a brief description of each dataset
+* [LLMDatahub](https://github.com/Zjh-819/LLMDataHub) ⭐ 3,415 | 🐛 5 | 📅 2023-11-28 - a curated collection of datasets specifically designed for chatbot training, including links, size, language, usage, and a brief description of each dataset
 
 * [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) ⭐ 2,775 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-08-04 - Measuring LLMs' Reasoning Performance
 
@@ -138,15 +138,15 @@
 
 * [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) ⭐ 1,875 | 🐛 3 | 📅 2026-08-27 - Awesome LLM compression research papers and tools.
 
-* [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,701 | 🐛 226 | 📅 2025-08-20 - A curation of awesome tools, documents and projects about LLM Security.
+* [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,702 | 🐛 229 | 📅 2025-08-20 - A curation of awesome tools, documents and projects about LLM Security.
 
 * [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) ⭐ 1,432 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 - 日本語LLMまとめ - Overview of Japanese LLMs.
 
-* [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) ⭐ 1,291 | 🐛 5 | 📅 2024-12-10 - An awesome and curated list of best code-LLM for research.
+* [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) ⭐ 1,292 | 🐛 5 | 📅 2024-12-10 - An awesome and curated list of best code-LLM for research.
 
 * [ModelEditingPapers](https://github.com/zjunlp/ModelEditingPapers) ⭐ 1,247 | 🐛 0 | 📅 2026-08-20 - A paper & resource list on model editing for large language models.
 
-* [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) ⭐ 1,130 | 🐛 0 | 📅 2026-07-24 - List of papers on hallucination detection in LLMs.
+* [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) ⭐ 1,131 | 🐛 0 | 📅 2026-07-24 - List of papers on hallucination detection in LLMs.
 
 * [Awesome GPT](https://github.com/formulahendry/awesome-gpt) ⭐ 1,046 | 🐛 29 | 📅 2024-05-29 - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 
@@ -186,7 +186,7 @@
 <details>
   <summary> other leaderboards </summary>
 
-* [Chinese Large Model Leaderboard](https://github.com/jeinlee1991/chinese-llm-benchmark) ⭐ 6,446 | 🐛 18 | 📅 2026-09-17 - an expert-driven benchmark for Chineses LLMs.
+* [Chinese Large Model Leaderboard](https://github.com/jeinlee1991/chinese-llm-benchmark) ⭐ 6,451 | 🐛 19 | 📅 2026-09-17 - an expert-driven benchmark for Chineses LLMs.
 * [ACLUE](https://github.com/isen-zhang/ACLUE) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2024-03-20 - an evaluation benchmark focused on ancient Chinese language comprehension.
 * [BeHonest](https://gair-nlp.github.io/BeHonest/#leaderboard) - A pioneering benchmark specifically designed to assess honesty in LLMs comprehensively.
 * [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) - evaluates LLM's ability to call external functions/tools.
@@ -220,8 +220,8 @@
 <details>
 <summary>DeepSeek</summary>
 
-* [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,471 | 🐛 245 | 🌐 Python | 📅 2025-08-28
-* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 91,983 | 🐛 35 | 📅 2025-06-27
+* [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,474 | 🐛 250 | 🌐 Python | 📅 2025-08-28
+* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 91,980 | 🐛 37 | 📅 2025-06-27
 * [DeepSeek-Coder-v2-16|236B-MOE](https://github.com/deepseek-ai/DeepSeek-Coder-V2) ⭐ 7,013 | 🐛 79 | 📅 2025-11-11
 * [DeepSeek-Math-7B](https://huggingface.co/collections/deepseek-ai/deepseek-math-65f2962739da11599e441681)
 * [DeepSeek-Coder-1.3|6.7|7|33B](https://huggingface.co/collections/deepseek-ai/deepseek-coder-65f295d7d8a0a29fe39b4ec4)
@@ -416,55 +416,55 @@
 
 ## LLM Data
 
-> Reference: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) ⭐ 3,414 | 🐛 5 | 📅 2023-11-28
+> Reference: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) ⭐ 3,415 | 🐛 5 | 📅 2023-11-28
 
-* [Datatrove](https://github.com/huggingface/datatrove) ⭐ 3,342 | 🐛 105 | 🌐 Python | 📅 2026-09-17 - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+* [Datatrove](https://github.com/huggingface/datatrove) ⭐ 3,343 | 🐛 105 | 🌐 Python | 📅 2026-09-17 - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 * [IBM data-prep-kit](https://github.com/IBM/data-prep-kit) ⭐ 964 | 🐛 231 | 🌐 HTML | 📅 2026-09-08 - Open-Source Toolkit for Efficient Unstructured Data Processing with Pre-built Modules and Local to Cluster Scalability.
-* [Dingo](https://github.com/DataEval/dingo) ⭐ 756 | 🐛 6 | 🌐 Python | 📅 2026-09-20 - Dingo: A Comprehensive Data Quality Evaluation Tool
+* [Dingo](https://github.com/DataEval/dingo) ⭐ 756 | 🐛 6 | 🌐 Python | 📅 2026-09-21 - Dingo: A Comprehensive Data Quality Evaluation Tool
 * [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) ⭐ 224 | 🐛 0 | 🌐 Python | 📅 2025-08-31 - A powerful tool for creating high-quality training datasets for Large Language Models
 
 ## LLM Evaluation:
 
-* [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,036 | 🐛 1,002 | 🌐 Python | 📅 2026-09-14 - A framework for few-shot evaluation of language models.
-* [simple-evals](https://github.com/openai/simple-evals) ⭐ 4,637 | 🐛 63 | 🌐 Python | 📅 2026-04-22 - Eval tools by OpenAI.
-* [lighteval](https://github.com/huggingface/lighteval) ⭐ 2,547 | 🐛 413 | 🌐 Python | 📅 2026-09-17 - a lightweight LLM evaluation suite that Hugging Face has been using internally.
+* [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,049 | 🐛 1,003 | 🌐 Python | 📅 2026-09-14 - A framework for few-shot evaluation of language models.
+* [simple-evals](https://github.com/openai/simple-evals) ⭐ 4,638 | 🐛 63 | 🌐 Python | 📅 2026-04-22 - Eval tools by OpenAI.
+* [lighteval](https://github.com/huggingface/lighteval) ⭐ 2,547 | 🐛 412 | 🌐 Python | 📅 2026-09-21 - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 
 <details>
 <summary>other evaluation frameworks</summary>
 
-* [Ragas](https://github.com/explodinggradients/ragas) ⭐ 15,793 | 🐛 603 | 🌐 Python | 📅 2026-02-24 - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
-* [Giskard](https://github.com/Giskard-AI/giskard) ⭐ 5,831 | 🐛 66 | 🌐 Python | 📅 2026-09-18 - Testing & evaluation library for LLM applications, in particular RAGs
-* [HELM](https://github.com/stanford-crfm/helm) ⭐ 2,915 | 🐛 106 | 🌐 Python | 📅 2026-09-01 - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models.
+* [Ragas](https://github.com/explodinggradients/ragas) ⭐ 15,811 | 🐛 603 | 🌐 Python | 📅 2026-02-24 - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+* [Giskard](https://github.com/Giskard-AI/giskard) ⭐ 5,833 | 🐛 68 | 🌐 Python | 📅 2026-09-21 - Testing & evaluation library for LLM applications, in particular RAGs
+* [HELM](https://github.com/stanford-crfm/helm) ⭐ 2,916 | 🐛 106 | 🌐 Python | 📅 2026-09-01 - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models.
 * [instruct-eval](https://github.com/declare-lab/instruct-eval) ⭐ 553 | 🐛 24 | 🌐 Python | 📅 2024-03-10 - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 * [MixEval](https://github.com/Psycoy/MixEval) ⭐ 254 | 🐛 7 | 🌐 Python | 📅 2024-11-10 - A reliable click-and-go evaluation suite compatible with both open-source and proprietary models, supporting MixEval and other benchmarks.
-* [OLMO-eval](https://github.com/allenai/OLMo-Eval) ⭐ 71 | 🐛 72 | 🌐 Python | 📅 2026-09-20 - a repository for evaluating open language models.
+* [OLMO-eval](https://github.com/allenai/OLMo-Eval) ⭐ 71 | 🐛 75 | 🌐 Python | 📅 2026-09-20 - a repository for evaluating open language models.
 * [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.
 
 </details>
 
 ## LLM Training Frameworks
 
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) ⭐ 43,145 | 🐛 1,453 | 🌐 Python | 📅 2026-09-20 - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-* [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,958 | 🐛 1,375 | 🌐 Python | 📅 2026-09-20 - Ongoing research training transformer models at scale.
-* [Litgpt](https://github.com/Lightning-AI/litgpt) ⭐ 13,673 | 🐛 290 | 🌐 Python | 📅 2026-09-14 - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-* [torchtitan](https://github.com/pytorch/torchtitan) ⭐ 5,753 | 🐛 736 | 🌐 Python | 📅 2026-09-20 - A native PyTorch Library for large model training.
-* [Meta Lingua](https://github.com/facebookresearch/lingua) ⭐ 4,766 | 🐛 14 | 🌐 Python | 📅 2025-07-18 - a lean, efficient, and easy-to-hack codebase to research LLMs.
-* [nanotron](https://github.com/huggingface/nanotron) ⭐ 2,825 | 🐛 156 | 🌐 Python | 📅 2026-09-17 - Minimalistic large language model 3D-parallelism training.
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed) ⭐ 43,148 | 🐛 1,452 | 🌐 Python | 📅 2026-09-21 - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+* [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,968 | 🐛 1,391 | 🌐 Python | 📅 2026-09-21 - Ongoing research training transformer models at scale.
+* [Litgpt](https://github.com/Lightning-AI/litgpt) ⭐ 13,673 | 🐛 291 | 🌐 Python | 📅 2026-09-14 - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+* [torchtitan](https://github.com/pytorch/torchtitan) ⭐ 5,755 | 🐛 741 | 🌐 Python | 📅 2026-09-21 - A native PyTorch Library for large model training.
+* [Meta Lingua](https://github.com/facebookresearch/lingua) ⭐ 4,767 | 🐛 14 | 🌐 Python | 📅 2025-07-18 - a lean, efficient, and easy-to-hack codebase to research LLMs.
+* [nanotron](https://github.com/huggingface/nanotron) ⭐ 2,825 | 🐛 157 | 🌐 Python | 📅 2026-09-17 - Minimalistic large language model 3D-parallelism training.
 
 <details>
 <summary>other frameworks</summary>
 
-* [unslothai](https://github.com/unslothai/unsloth) ⭐ 76,489 | 🐛 1,249 | 🌐 Python | 📅 2026-09-20 - A framework that specializes in efficient fine-tuning. On its GitHub page, you can find ready-to-use fine-tuning templates for various LLMs, allowing you to easily train your own data for free on the Google Colab cloud.
-* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,437 | 🐛 505 | 🌐 Python | 📅 2026-09-19 - Making large AI models cheaper, faster, and more accessible.
-* [veRL](https://github.com/volcengine/verl) ⭐ 23,504 | 🐛 1,244 | 🌐 Python | 📅 2026-09-20 - veRL is a flexible and efficient RL framework for LLMs.
-* [NeMo Framework](https://github.com/NVIDIA/NeMo) ⭐ 18,479 | 🐛 297 | 🌐 Python | 📅 2026-09-20 - Generative AI framework built for researchers and PyTorch developers working on Large Language Models (LLMs), Multimodal Models (MMs), Automatic Speech Recognition (ASR), Text to Speech (TTS), and Computer Vision (CV) domains.
-* [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) ⭐ 12,490 | 🐛 240 | 🌐 Python | 📅 2026-09-20 - Open-source framework for fine-tuning and evaluating LLMs. It simplifies the process of experimenting with different training configurations and makes it easy to reproduce and share results, supporting features like LoRA, QLoRA, DeepSpeed, PEFT, and multi-GPU setups.
-* [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) ⭐ 10,020 | 🐛 384 | 🌐 Python | 📅 2026-09-17 - An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & RingAttention & RFT).
-* [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ⭐ 7,462 | 🐛 123 | 🌐 Python | 📅 2026-09-04 - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+* [unslothai](https://github.com/unslothai/unsloth) ⭐ 76,540 | 🐛 1,221 | 🌐 Python | 📅 2026-09-21 - A framework that specializes in efficient fine-tuning. On its GitHub page, you can find ready-to-use fine-tuning templates for various LLMs, allowing you to easily train your own data for free on the Google Colab cloud.
+* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,438 | 🐛 506 | 🌐 Python | 📅 2026-09-21 - Making large AI models cheaper, faster, and more accessible.
+* [veRL](https://github.com/volcengine/verl) ⭐ 23,517 | 🐛 1,251 | 🌐 Python | 📅 2026-09-21 - veRL is a flexible and efficient RL framework for LLMs.
+* [NeMo Framework](https://github.com/NVIDIA/NeMo) ⭐ 18,483 | 🐛 299 | 🌐 Python | 📅 2026-09-21 - Generative AI framework built for researchers and PyTorch developers working on Large Language Models (LLMs), Multimodal Models (MMs), Automatic Speech Recognition (ASR), Text to Speech (TTS), and Computer Vision (CV) domains.
+* [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) ⭐ 12,490 | 🐛 240 | 🌐 Python | 📅 2026-09-21 - Open-source framework for fine-tuning and evaluating LLMs. It simplifies the process of experimenting with different training configurations and makes it easy to reproduce and share results, supporting features like LoRA, QLoRA, DeepSpeed, PEFT, and multi-GPU setups.
+* [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) ⭐ 10,027 | 🐛 384 | 🌐 Python | 📅 2026-09-17 - An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & RingAttention & RFT).
+* [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ⭐ 7,461 | 🐛 123 | 🌐 Python | 📅 2026-09-04 - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 * [torchtune](https://github.com/pytorch/torchtune) ⭐ 5,812 | 🐛 467 | 🌐 Python | 📅 2026-09-09 - A Native-PyTorch Library for LLM Fine-tuning.
-* [Transformer Engine](https://github.com/NVIDIA/TransformerEngine) ⭐ 3,546 | 🐛 362 | 🌐 Python | 📅 2026-09-19 - A library for accelerating Transformer model training on NVIDIA GPUs.
-* [ROLL](https://github.com/alibaba/ROLL) ⭐ 3,401 | 🐛 133 | 🌐 Python | 📅 2026-09-20 - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models.
-* [maxtext](https://github.com/AI-Hypercomputer/maxtext) ⭐ 2,421 | 🐛 311 | 🌐 Python | 📅 2026-09-20 - A simple, performant and scalable Jax LLM!
+* [Transformer Engine](https://github.com/NVIDIA/TransformerEngine) ⭐ 3,546 | 🐛 361 | 🌐 Python | 📅 2026-09-21 - A library for accelerating Transformer model training on NVIDIA GPUs.
+* [ROLL](https://github.com/alibaba/ROLL) ⭐ 3,402 | 🐛 134 | 🌐 Python | 📅 2026-09-21 - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models.
+* [maxtext](https://github.com/AI-Hypercomputer/maxtext) ⭐ 2,425 | 🐛 315 | 🌐 Python | 📅 2026-09-21 - A simple, performant and scalable Jax LLM!
 * [Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) ⭐ 2,264 | 🐛 162 | 🌐 Python | 📅 2025-08-14 - DeepSpeed version of NVIDIA's Megatron-LM that adds additional support for several features such as MoE model training, Curriculum Learning, 3D Parallelism, and others.
 * [Mesh Tensorflow](https://github.com/tensorflow/mesh) ⚠️ Archived - Mesh TensorFlow: Model Parallelism Made Easier.
 * [BMTrain](https://github.com/OpenBMB/BMTrain) ⭐ 624 | 🐛 10 | 🌐 Python | 📅 2026-07-07 - Efficient Training for Big Models.
@@ -476,26 +476,26 @@
 
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions) ⭐ 95 | 🐛 1 | 📅 2025-03-01
 
-* [ollama](https://github.com/ollama/ollama) ⭐ 181,315 | 🐛 4,045 | 🌐 Go | 📅 2026-09-19 - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-* [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 128,956 | 🐛 2,525 | 🌐 C++ | 📅 2026-09-20 - LLM inference in C/C++.
-* [vLLM](https://github.com/vllm-project/vllm) ⭐ 92,249 | 🐛 8,179 | 🌐 Python | 📅 2026-09-20 - A high-throughput and memory-efficient inference and serving engine for LLMs.
-* [SGLang](https://github.com/sgl-project/sglang) ⭐ 36,212 | 🐛 5,393 | 🌐 Python | 📅 2026-09-20 - SGLang is a fast serving framework for large language models and vision language models.
-* [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,679 | 🐛 1,504 | 🌐 Python | 📅 2026-09-20 - Nvidia Framework for LLM Inference
+* [ollama](https://github.com/ollama/ollama) ⭐ 181,388 | 🐛 4,057 | 🌐 Go | 📅 2026-09-21 - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+* [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 129,086 | 🐛 2,533 | 🌐 C++ | 📅 2026-09-21 - LLM inference in C/C++.
+* [vLLM](https://github.com/vllm-project/vllm) ⭐ 92,356 | 🐛 8,265 | 🌐 Python | 📅 2026-09-21 - A high-throughput and memory-efficient inference and serving engine for LLMs.
+* [SGLang](https://github.com/sgl-project/sglang) ⭐ 36,269 | 🐛 5,387 | 🌐 Python | 📅 2026-09-21 - SGLang is a fast serving framework for large language models and vision language models.
+* [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,687 | 🐛 1,511 | 🌐 Python | 📅 2026-09-21 - Nvidia Framework for LLM Inference
 * [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 
 <details>
 <summary>other deployment tools</summary>
 
-* [FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,542 | 🐛 1,043 | 🌐 Python | 📅 2026-05-01 - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
-* [OpenLLM](https://github.com/bentoml/OpenLLM) ⭐ 12,541 | 🐛 17 | 🌐 Python | 📅 2026-09-14 - Fine-tune, serve, deploy, and monitor any open-source LLMs in production. Used in production at [BentoML](https://bentoml.com/) for LLMs-based applications.
-* [SkyPilot](https://github.com/skypilot-org/skypilot) ⭐ 10,625 | 🐛 433 | 🌐 Python | 📅 2026-09-20 - Run LLMs and batch jobs on any cloud. Get maximum cost savings, highest GPU availability, and managed execution -- all with a simple interface.
-* [LMDeploy](https://github.com/InternLM/lmdeploy) ⭐ 8,083 | 🐛 597 | 🌐 Python | 📅 2026-09-18 - A high-throughput and low-latency inference and serving framework for LLMs and VLs
-* [mistral.rs](https://github.com/EricLBuehler/mistral.rs) ⭐ 7,712 | 🐛 389 | 🌐 Rust | 📅 2026-09-08 - Blazingly fast LLM inference.
-* [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,620 | 🐛 225 | 🌐 Python | 📅 2026-09-18 - Efficient Triton Kernels for LLM Training.
-* [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) ⭐ 6,448 | 🐛 289 | 🌐 C++ | 📅 2024-03-27 - NVIDIA Framework for LLM Inference(Transitioned to TensorRT-LLM)
-* [Text-Embeddings-Inference](https://github.com/huggingface/text-embeddings-inference) ⭐ 5,056 | 🐛 207 | 🌐 Rust | 📅 2026-09-17 - Inference for text-embeddings in Rust, HFOIL Licence.
+* [FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,543 | 🐛 1,043 | 🌐 Python | 📅 2026-05-01 - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
+* [OpenLLM](https://github.com/bentoml/OpenLLM) ⭐ 12,542 | 🐛 17 | 🌐 Python | 📅 2026-09-21 - Fine-tune, serve, deploy, and monitor any open-source LLMs in production. Used in production at [BentoML](https://bentoml.com/) for LLMs-based applications.
+* [SkyPilot](https://github.com/skypilot-org/skypilot) ⭐ 10,631 | 🐛 437 | 🌐 Python | 📅 2026-09-21 - Run LLMs and batch jobs on any cloud. Get maximum cost savings, highest GPU availability, and managed execution -- all with a simple interface.
+* [LMDeploy](https://github.com/InternLM/lmdeploy) ⭐ 8,088 | 🐛 597 | 🌐 Python | 📅 2026-09-21 - A high-throughput and low-latency inference and serving framework for LLMs and VLs
+* [mistral.rs](https://github.com/EricLBuehler/mistral.rs) ⭐ 7,714 | 🐛 391 | 🌐 Rust | 📅 2026-09-08 - Blazingly fast LLM inference.
+* [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,625 | 🐛 229 | 🌐 Python | 📅 2026-09-21 - Efficient Triton Kernels for LLM Training.
+* [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) ⭐ 6,449 | 🐛 289 | 🌐 C++ | 📅 2024-03-27 - NVIDIA Framework for LLM Inference(Transitioned to TensorRT-LLM)
+* [Text-Embeddings-Inference](https://github.com/huggingface/text-embeddings-inference) ⭐ 5,058 | 🐛 207 | 🌐 Rust | 📅 2026-09-17 - Inference for text-embeddings in Rust, HFOIL Licence.
 * [exllama](https://github.com/turboderp/exllama) ⭐ 2,946 | 🐛 65 | 🌐 Python | 📅 2023-09-30 - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
-* [Infinity](https://github.com/michaelfeil/infinity) ⭐ 2,942 | 🐛 136 | 🌐 Python | 📅 2026-03-24 - Inference for text-embeddings in Python
+* [Infinity](https://github.com/michaelfeil/infinity) ⭐ 2,943 | 🐛 136 | 🌐 Python | 📅 2026-03-24 - Inference for text-embeddings in Python
 * [DeepSpeed-Mii](https://github.com/microsoft/DeepSpeed-MII) ⭐ 2,113 | 🐛 209 | 🌐 Python | 📅 2025-06-30 -  MII makes low-latency and high-throughput inference, similar to vLLM powered by DeepSpeed.
 * [MInference](https://github.com/microsoft/MInference) ⭐ 1,229 | 🐛 95 | 🌐 Python | 📅 2026-09-10 - To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
 * [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) ⭐ 3 | 🐛 0 | 📅 2025-05-01 - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
@@ -506,66 +506,66 @@
 
 ## LLM Applications
 
-> Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 139,128 | 🐛 17 | 🌐 Python | 📅 2026-09-20
+> Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 139,308 | 🐛 19 | 🌐 Python | 📅 2026-09-20
 
-* [LangChain](https://github.com/hwchase17/langchain) ⭐ 146,738 | 🐛 538 | 🌐 Python | 📅 2026-09-20 — A popular Python/JavaScript library for chaining sequences of language model prompts.
-* [LlamaIndex](https://github.com/jerryjliu/llama_index) ⭐ 52,247 | 🐛 808 | 🌐 Python | 📅 2026-09-19 — A Python library for augmenting LLM apps with data.
-* [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,162 | 🐛 713 | 🌐 Python | 📅 2026-09-20 - DSPy: The framework for programming—not prompting—foundation models.
+* [LangChain](https://github.com/hwchase17/langchain) ⭐ 146,820 | 🐛 540 | 🌐 Python | 📅 2026-09-21 — A popular Python/JavaScript library for chaining sequences of language model prompts.
+* [LlamaIndex](https://github.com/jerryjliu/llama_index) ⭐ 52,268 | 🐛 815 | 🌐 Python | 📅 2026-09-21 — A Python library for augmenting LLM apps with data.
+* [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,184 | 🐛 715 | 🌐 Python | 📅 2026-09-21 - DSPy: The framework for programming—not prompting—foundation models.
 
 <details>
 <summary>more applications</summary>
 
-* [Dify](https://github.com/langgenius/dify) ⭐ 156,597 | 🐛 1,080 | 🌐 TypeScript | 📅 2026-09-20 - An open-source LLM app development platform with an intuitive interface that streamlines AI workflows, model management, and production deployment.
+* [Dify](https://github.com/langgenius/dify) ⭐ 156,760 | 🐛 1,094 | 🌐 TypeScript | 📅 2026-09-21 - An open-source LLM app development platform with an intuitive interface that streamlines AI workflows, model management, and production deployment.
 
-* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 65,711 | 🐛 761 | 🌐 Python | 📅 2026-09-19 - Framework to create ChatGPT like bots over your dataset.
+* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 65,788 | 🐛 766 | 🌐 Python | 📅 2026-09-21 - Framework to create ChatGPT like bots over your dataset.
 
-* [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐ 38,651 | 🐛 26 | 🌐 Python | 📅 2025-11-10 - Formerly langchain-ChatGLM, local knowledge based LLM (like ChatGLM) QA app with langchain.
+* [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐ 38,658 | 🐛 26 | 🌐 Python | 📅 2025-11-10 - Formerly langchain-ChatGLM, local knowledge based LLM (like ChatGLM) QA app with langchain.
 
-* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 34,854 | 🐛 931 | 🌐 TypeScript | 📅 2026-09-20 -  Open Source LLM Engineering Platform 🪢 Tracing, Evaluations, Prompt Management, Evaluations and Playground.
+* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 34,908 | 🐛 918 | 🌐 TypeScript | 📅 2026-09-21 -  Open Source LLM Engineering Platform 🪢 Tracing, Evaluations, Prompt Management, Evaluations and Playground.
 
-* [Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,581 | 🐛 311 | 🌐 C# | 📅 2026-09-19 — A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
+* [Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,587 | 🐛 312 | 🌐 C# | 📅 2026-09-19 — A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
 
-* [promptfoo](https://github.com/typpo/promptfoo) ⭐ 25,308 | 🐛 638 | 🌐 TypeScript | 📅 2026-09-20 - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
+* [promptfoo](https://github.com/typpo/promptfoo) ⭐ 25,337 | 🐛 629 | 🌐 TypeScript | 📅 2026-09-21 - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
 
-* [Opik](https://github.com/comet-ml/opik) ⭐ 22,161 | 🐛 298 | 🌐 Python | 📅 2026-09-20 - Confidently evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+* [Opik](https://github.com/comet-ml/opik) ⭐ 22,182 | 🐛 304 | 🌐 Python | 📅 2026-09-21 - Confidently evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 
-* [Guidance](https://github.com/microsoft/guidance) ⭐ 21,767 | 🐛 326 | 🌐 Jupyter Notebook | 📅 2026-05-21 — A handy looking Python library from Microsoft that uses Handlebars templating to interleave generation, prompting, and logical control.
+* [Guidance](https://github.com/microsoft/guidance) ⭐ 21,770 | 🐛 332 | 🌐 Jupyter Notebook | 📅 2026-05-21 — A handy looking Python library from Microsoft that uses Handlebars templating to interleave generation, prompting, and logical control.
 
-* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,486 | 🐛 340 | 🌐 Python | 📅 2026-04-14 — An open-source library for evaluating task performance of language models and prompts.
+* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,488 | 🐛 340 | 🌐 Python | 📅 2026-04-14 — An open-source library for evaluating task performance of language models and prompts.
 
-* [MNN-LLM](https://github.com/alibaba/MNN) ⭐ 16,118 | 🐛 37 | 🌐 C++ | 📅 2026-09-20 -- A Device-Inference framework, including LLM Inference on device(Mobile Phone/PC/IOT)
+* [MNN-LLM](https://github.com/alibaba/MNN) ⭐ 16,124 | 🐛 34 | 🌐 C++ | 📅 2026-09-21 -- A Device-Inference framework, including LLM Inference on device(Mobile Phone/PC/IOT)
 
-* [Outlines](https://github.com/normal-computing/outlines) ⭐ 15,843 | 🐛 173 | 🌐 Python | 📅 2026-09-19 — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
+* [Outlines](https://github.com/normal-computing/outlines) ⭐ 15,865 | 🐛 173 | 🌐 Python | 📅 2026-09-21 — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
 
-* [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,233 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20 - Use ChatGPT On Wechat via wechaty
+* [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,234 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20 - Use ChatGPT On Wechat via wechaty
 
-* [AI Gateway](https://github.com/Portkey-AI/gateway) ⭐ 13,043 | 🐛 270 | 🌐 TypeScript | 📅 2026-05-25 — Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency.
+* [AI Gateway](https://github.com/Portkey-AI/gateway) ⭐ 13,049 | 🐛 272 | 🌐 TypeScript | 📅 2026-05-25 — Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency.
 
 * [Search with Lepton](https://github.com/leptonai/search_with_lepton) ⚠️ Archived - Build your own conversational search engine using less than 500 lines of code by [LeptonAI](https://github.com/leptonai).
 
-* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,930 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2026-09-11 — An open-source framework to evaluate, test and monitor ML and LLM-powered systems.
+* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,932 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2026-09-11 — An open-source framework to evaluate, test and monitor ML and LLM-powered systems.
 
 * [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) ⚠️ Archived - Locally running websearch using LLM chains
 
-* [GPUStack](https://github.com/gpustack/gpustack) ⭐ 5,722 | 🐛 704 | 🌐 Python | 📅 2026-09-20 - An open-source GPU cluster manager for running LLMs
+* [GPUStack](https://github.com/gpustack/gpustack) ⭐ 5,731 | 🐛 710 | 🌐 Python | 📅 2026-09-21 - An open-source GPU cluster manager for running LLMs
 
 * [Serge](https://github.com/serge-chat/serge) ⚠️ Archived - a chat interface crafted with llama.cpp for running Alpaca models. No API keys, entirely self-hosted!
 
-* [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ⭐ 5,075 | 🐛 149 | 🌐 TypeScript | 📅 2026-09-20 - Open source AutoML tool for RAG. Optimize the RAG answer quality automatically. From generation evaluation datset to deploying optimized RAG pipeline.
+* [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ⭐ 5,092 | 🐛 133 | 🌐 TypeScript | 📅 2026-09-21 - Open source AutoML tool for RAG. Optimize the RAG answer quality automatically. From generation evaluation datset to deploying optimized RAG pipeline.
 
-* [LangWatch](https://github.com/langwatch/langwatch) ⭐ 4,840 | 🐛 999 | 🌐 TypeScript | 📅 2026-09-20 - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
+* [LangWatch](https://github.com/langwatch/langwatch) ⭐ 4,846 | 🐛 1,000 | 🌐 TypeScript | 📅 2026-09-21 - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 
-* [Agenta](https://github.com/agenta-ai/agenta) ⭐ 4,769 | 🐛 378 | 🌐 TypeScript | 📅 2026-09-20 -  Easily build, version, evaluate and deploy your LLM-powered apps.
+* [Agenta](https://github.com/agenta-ai/agenta) ⭐ 4,770 | 🐛 370 | 🌐 TypeScript | 📅 2026-09-21 -  Easily build, version, evaluate and deploy your LLM-powered apps.
 
-* [Promptify](https://github.com/promptslab/Promptify) ⭐ 4,636 | 🐛 60 | 🌐 Python | 📅 2026-03-27 — A small Python library for using language models to perform NLP tasks.
+* [Promptify](https://github.com/promptslab/Promptify) ⭐ 4,635 | 🐛 60 | 🌐 Python | 📅 2026-03-27 — A small Python library for using language models to perform NLP tasks.
 
-* [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) ⭐ 4,215 | 🐛 68 | 🌐 Python | 📅 2026-05-29 - AdalFlow: The library to build\&auto-optimize LLM applications.
+* [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) ⭐ 4,217 | 🐛 68 | 🌐 Python | 📅 2026-05-29 - AdalFlow: The library to build\&auto-optimize LLM applications.
 
-* [Langroid](https://github.com/langroid/langroid) ⭐ 4,103 | 🐛 56 | 🌐 Python | 📅 2026-09-17 - Harness LLMs with Multi-Agent Programming
+* [Langroid](https://github.com/langroid/langroid) ⭐ 4,103 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - Harness LLMs with Multi-Agent Programming
 
-* [LazyLLM](https://github.com/LazyAGI/LazyLLM) ⭐ 3,885 | 🐛 55 | 🌐 Python | 📅 2026-09-20 - An open-source LLM app for building multi-agent LLMs applications in an easy and lazy way, supports model deployment and fine-tuning.
+* [LazyLLM](https://github.com/LazyAGI/LazyLLM) ⭐ 3,885 | 🐛 56 | 🌐 Python | 📅 2026-09-21 - An open-source LLM app for building multi-agent LLMs applications in an easy and lazy way, supports model deployment and fine-tuning.
 
-* [Prompttools](https://github.com/hegelai/prompttools) ⭐ 3,055 | 🐛 43 | 🌐 Python | 📅 2026-02-11 — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
+* [Prompttools](https://github.com/hegelai/prompttools) ⭐ 3,054 | 🐛 43 | 🌐 Python | 📅 2026-02-11 — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
 
 * [magentic](https://github.com/jackmpcollins/magentic) ⭐ 2,425 | 🐛 50 | 🌐 Python | 📅 2026-03-11 - Seamlessly integrate LLMs as Python functions
 
@@ -575,13 +575,13 @@
 
 * [ModelFusion](https://github.com/lgrammel/modelfusion) ⚠️ Archived - A TypeScript library for building apps with LLMs and other ML models (speech-to-text, text-to-speech, image generation).
 
-* [Wllama](https://github.com/ngxson/wllama) ⭐ 1,266 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-20 - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
+* [Wllama](https://github.com/ngxson/wllama) ⭐ 1,279 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-20 - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 
 * [Swiss Army Llama](https://github.com/Dicklesworthstone/swiss_army_llama) ⭐ 1,054 | 🐛 0 | 🌐 Python | 📅 2025-02-27 - Comprehensive set of tools for working with local LLMs for various tasks.
 
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,054 | 🐛 15 | 🌐 Python | 📅 2025-11-27 - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 
-* [Robocorp](https://github.com/robocorp/robocorp) ⭐ 653 | 🐛 13 | 🌐 Python | 📅 2026-09-01 - Create, deploy and operate Actions using Python anywhere to enhance your AI agents and assistants. Batteries included with an extensive set of libraries, helpers and logging.
+* [Robocorp](https://github.com/robocorp/robocorp) ⭐ 654 | 🐛 13 | 🌐 Python | 📅 2026-09-01 - Create, deploy and operate Actions using Python anywhere to enhance your AI agents and assistants. Batteries included with an extensive set of libraries, helpers and logging.
 
 * [MindSQL](https://github.com/Mindinventory/MindSQL) ⭐ 447 | 🐛 10 | 🌐 Python | 📅 2025-07-16 - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.
 
@@ -635,8 +635,8 @@
 
 ## LLM Tutorials and Courses
 
-* [llm-course](https://github.com/mlabonne/llm-course) ⭐ 83,044 | 🐛 90 | 📅 2026-02-05 - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-* [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) ⭐ 4,896 | 🐛 3 | 🌐 Python | 📅 2026-09-10 | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) ⭐ 4,896 | 🐛 3 | 🌐 Python | 📅 2026-09-10 - 100+  LLM / RL Algorithm Maps📚.
+* [llm-course](https://github.com/mlabonne/llm-course) ⭐ 83,060 | 🐛 90 | 📅 2026-02-05 - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+* [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) ⭐ 4,897 | 🐛 3 | 🌐 Python | 📅 2026-09-10 | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) ⭐ 4,897 | 🐛 3 | 🌐 Python | 📅 2026-09-10 - 100+  LLM / RL Algorithm Maps📚.
 * [femtoGPT](https://github.com/keyvank/femtoGPT) ⭐ 936 | 🐛 10 | 🌐 Rust | 📅 2025-10-21 - Pure Rust implementation of a minimal Generative Pretrained Transformer.
 * [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 * [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
@@ -681,9 +681,9 @@
 
 ## Miscellaneous
 
-* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,462 | 🐛 581 | 🌐 Python | 📅 2026-09-20 - an experimental open-source application showcasing the capabilities of the GPT-4 language model.
-* [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) ⭐ 3,714 | 🐛 3 | 🌐 Python | 📅 2026-09-05 - ChatGPT Wrapper is an open-source unofficial Python API and CLI that lets you interact with ChatGPT.
-* [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,923 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-14 - An easy-to-use framework to edit large language models.
+* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,479 | 🐛 578 | 🌐 Python | 📅 2026-09-21 - an experimental open-source application showcasing the capabilities of the GPT-4 language model.
+* [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) ⭐ 3,715 | 🐛 3 | 🌐 Python | 📅 2026-09-05 - ChatGPT Wrapper is an open-source unofficial Python API and CLI that lets you interact with ChatGPT.
+* [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,924 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-14 - An easy-to-use framework to edit large language models.
 * [OpenAGI](https://github.com/agiresearch/OpenAGI) ⭐ 2,285 | 🐛 10 | 🌐 Python | 📅 2024-11-28 - When LLM Meets Domain Experts.
 * [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-28 - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 * [Emergent Mind](https://www.emergentmind.com) - The latest AI news, curated & explained by GPT-4.
@@ -708,4 +708,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
